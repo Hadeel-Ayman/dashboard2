@@ -475,7 +475,7 @@ export const links = [
     title: 'لوحة التحكم',
     links: [
       {
-        name: 'ecommerce',
+        name: '',
         nameAr:"الرئيسية",
         icon: <FiShoppingBag />,
       },
